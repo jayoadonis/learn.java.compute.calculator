@@ -14,7 +14,7 @@ project.application {
     "${project.group}.${project.name.replace('-','_')}.Main"
   )
   this.mainModule.set(
-    "${project.group}.\${project.name.replace('-','_')"
+    "${project.group}.${project.name.replace('-','_')}"
   )
 }
 
