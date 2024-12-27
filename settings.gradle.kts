@@ -1,4 +1,4 @@
-settings.rootProject.name="learn.java.compute.calculator_app"
+settings.rootProject.name="learn.java.compute.calculator"
 
 
 settings.include(":calculator-app")
